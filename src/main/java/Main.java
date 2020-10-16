@@ -12,7 +12,7 @@ public class Main {
         String ChainsOfElement = "";
 
 
-        elements = new git initElement[BackElements];
+        elements = new Element[BackElements];
 
         for (int i = 0; i < elements.length; i++) {
             int element = i + 1;
